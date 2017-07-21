@@ -7,7 +7,7 @@ body{
 
 #comb{
   position: absolute;
-    top: 40%;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: black;
@@ -26,11 +26,7 @@ body{
   text-transform: capitalize;
   
 }
-#myBut
-{
 
-
-}
 .button {
     background-color: #008CBA; /* Green */
     border: none;
